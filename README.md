@@ -17,4 +17,5 @@ y values depend on the equation y = mx+c.
 
 
 Inspiration
+
 Everyone on this planet should be familiar (at least Computer Science students, etc.) about Linear Regression, so calculate the trend line, R^2, coefficient and intercept values.
